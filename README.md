@@ -14,3 +14,8 @@ A paper list of image caption
 
 ## 2015
 * Show, Attend and Tell: Neural Image Caption Generation with Visual Attention [[pdf](https://arxiv.org/pdf/1502.03044v3.pdf)] [[code](https://github.com/kelvinxu/arctic-captions)]
+
+
+# Data sets paper
+* Li X, Lan W, Dong J, et al. Adding Chinese captions to images[C]//Proceedings of the 2016 ACM on International Conference on Multimedia Retrieval. ACM, 2016: 271-275.
+* Wu J, Zheng H, Zhao B, et al. AI challenger: a large-scale dataset for going deeper in image understanding[J]. arXiv preprint arXiv:1711.06475, 2017.
