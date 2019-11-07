@@ -21,3 +21,4 @@ A paper list of image caption
 
 * Li X, Lan W, Dong J, et al. Adding Chinese captions to images[C]//Proceedings of the 2016 ACM on International Conference on Multimedia Retrieval. ACM, 2016: 271-275.
 * Wu J, Zheng H, Zhao B, et al. AI challenger: a large-scale dataset for going deeper in image understanding[J]. arXiv preprint arXiv:1711.06475, 2017.
+* Xirong Li, Chaoxi Xu, Xiaoxu Wang, Weiyu Lan, Zhengxiong Jia, Gang Yang, Jieping Xu, COCO-CN for Cross-Lingual Image Tagging, Captioning and Retrieval, IEEE Transactions on Multimedia, Volume 21, Number 9, pages 2347-2360, 2019
